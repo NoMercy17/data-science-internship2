@@ -1,0 +1,16 @@
+FIFA Player Value Prediction Results
+========================================
+
+Dataset: 18943 players, 17 features
+
+Linear Regression:
+  R² Score: 0.7589
+  RMSE: €664,627
+  MAE: €532,395
+
+Random Forest:
+  R² Score: 0.9663
+  RMSE: €248,511
+  MAE: €69,783
+
+Best Model: Random Forest
